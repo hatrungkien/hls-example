@@ -93,3 +93,6 @@ $ docker run -p 8000:8000 -t example-hls
 ### Note
 If app can't find playlist of video files then specify full-file-paths for {repo}/video/playlist_live.m3u8 file and {repo}/video folder in AppComponent.hpp
 
+### How to use
+- build and run project
+- open google localhost:8000 for index page
